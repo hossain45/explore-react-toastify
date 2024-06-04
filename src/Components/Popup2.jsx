@@ -14,8 +14,8 @@ const Popup2 = ({ setIsPopup2Close }) => {
       <div className="modal">
         <div className="modal-body">
           <div className="button-container">
-            <button onClick={setIsPopup2Close}>Close popup 2</button>
             <button onClick={handleToast}>Toast</button>
+            <button onClick={setIsPopup2Close}>Close popup 2</button>
           </div>
         </div>
       </div>
