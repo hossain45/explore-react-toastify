@@ -1,6 +1,6 @@
 import { Slide, ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import Modal from "./Modal";
+import Modal from "./../Modal/Modal";
 import Popup2 from "./Popup2";
 import { useState } from "react";
 
